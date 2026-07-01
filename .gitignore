@@ -1,4 +1,10 @@
-
 node_modules
 dist
-.env 
+dist-ssr
+*.local
+.env
+
+# Editor
+.vscode/*
+.idea
+.DS_Store
